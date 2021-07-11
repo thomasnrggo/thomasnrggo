@@ -74,11 +74,11 @@ Some of my projects:
 <h2 <font size = 5><b>My stats 👀</b></font></h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thomasnrggo&theme=great-gatsby&show_icons=true&include_all_commits=true&title_color=febd01&text_color=f0f6fc&hide_border=true&bg_color=21262d&icon_color=febd01" alt="Anthony's stasts" />
+<img src="https://github-readme-stats.vercel.app/api?username=thomasnrggo&theme=great-gatsby&show_icons=true&include_all_commits=true&title_color=febd01&text_color=f0f6fc&hide_border=true&bg_color=30363d&icon_color=febd01" alt="Anthony's stasts" />
 </p>
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thomasnrggo&theme=great-gatsby&title_color=febd01&text_color=f0f6fc&hide_border=true&bg_color=21262d&icon_color=febd01" alt="Techs used on projects">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thomasnrggo&theme=great-gatsby&title_color=febd01&text_color=f0f6fc&hide_border=true&bg_color=30363d&icon_color=febd01" alt="Techs used on projects">
 </p>
 
 
