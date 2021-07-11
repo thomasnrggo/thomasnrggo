@@ -1,5 +1,5 @@
 <img
-src="https://emmaisworking.dev/static/images/GitHubCover.png" alt="Anthony Nogales cover" style="float: left; margin-bottom: 30px; width: 100%"/>
+src="./assets/banner-anthony-nogales.png" alt="Anthony Nogales cover" style="float: left; margin-bottom: 30px; width: 100%"/>
 
 <p align='center'>
 &nbsp;&nbsp;&nbsp;&nbsp;
