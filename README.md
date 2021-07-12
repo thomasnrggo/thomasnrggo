@@ -11,7 +11,7 @@ src="./assets/banner-anthony-nogales.png" alt="Anthony Nogales cover" style="flo
 
 <h2 <font size = 5><b>Something about me 👾 </b></font></h2>
 <p>
-   I'm a Frontend developer with three years of experience building awesome javaScript Applications with React. I have a background in integral design, so I enjoy making incredible and usable interfaces. I have some experience creating API rest with Node and Firebase, so I have knowledge in backend, and I also have experience leading a development team and as a Project manager with multi-disciplinary teams. I'm self-taught, proactive, and passionate about education.
+   I'm a Frontend developer with three years of experience building awesome javaScript Applications with React. I have a background in integral design, so I enjoy making incredible and usable interfaces. I have some experience creating rest API with Node and Firebase, so I have knowledge in backend, and I also have experience leading a development team and as a Project manager with multi-disciplinary teams. I'm self-taught, proactive, and passionate about education.
 </p>
 <br>
 <p>
