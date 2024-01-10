@@ -11,7 +11,11 @@ src="./assets/banner-anthony-nogales.png" alt="Anthony Nogales cover" style="flo
 
 <h2 <font size = 5><b>Something about me 👾 </b></font></h2>
 <p>
-   I'm a Frontend developer with three years of experience building awesome javaScript Applications with React. I have a background in integral design, so I enjoy making incredible and usable interfaces. I have some experience creating rest API with Node and Firebase, so I have knowledge in backend, and I also have experience leading a development team and as a Project manager with multi-disciplinary teams. I'm self-taught, proactive, and passionate about education.
+   Hello! I'm Anthony, an adept Software Developer with a deep focus on JavaScript, particularly React and Next.js, boasting six years in the industry. My journey has seen me develop a sharp acuity in frontend engineering, where I strive to create user interfaces that are both intuitive and accessible, enhancing the user experience to new heights. My skill set extends to Angular and Vue, adapting to the multifaceted demands of modern projects.
+
+My foray into backend development has been marked by constructing robust APIs using Node.js and Express, and mastering backend frameworks like Ruby on Rails and Python with FastAPI and Django. This broadened perspective allows me to contribute significantly to every development stage.
+
+Rooted in self-education, I'm dedicated to perpetual learning and eagerly embrace the challenges that foster both personal and professional growth. I'm motivated by the opportunity to collaborate with innovative teams that place a premium on quality and strategic foresight in the development of leading-edge web solutions.
 </p>
 <br>
 <p>
@@ -24,23 +28,26 @@ src="./assets/banner-anthony-nogales.png" alt="Anthony Nogales cover" style="flo
 <br>
 <h2 <font size = 5><b>About my work 🤖</b></font></h2>
 <p>
-   Currently working as Product designer and head of frontend at <a href="https://smartkode.mx/">Smartkode</a>,  really like doing personal projects to try new technologies, most of them related with themes I enjoy like films, design, videogames and so.<br><br>
+   Currently working as Sotfware developer at <a href="https://cafetosoftware.com">Cateto Software</a> since 2021,  I really like doing personal projects to try new technologies, most of them related with themes I enjoy like films, design, videogames and so.<br><br>
 
 </p>
 
 Some of my projects:
 <p>
-  <a href="[https://purojekuto-master.herokuapp.com/](https://tgc-tracker.vercel.app/)" target="_BLANK"><b>TGC Tracker</b>
-  </a> A Pokemon TGC track for pokemon fans. <i><a href="https://github.com/thomasnrggo/TGC-Tracker>(Repository).</a></i>
+  <a href="https://tgc-tracker.vercel.app" target="_BLANK"><b>🂡 TGC Tracker</b>
+  </a> A Pokemon TGC track for pokemon fans. <i><a href="https://github.com/thomasnrggo/TGC-Tracker">(Repository).</a></i>
 </p>
+                                                  
 <p>
   <a href="https://purojekuto-master.herokuapp.com/" target="_BLANK"><b>🧑🏻‍💻 Purojekuto</b>
   </a> a project Planner for Project managers. <i><a href="https://github.com/Purojekuto-Capstone/purojekuto-client">(Repository).</a></i>
 </p>
+
 <p>
   <a href="https://ghibli-tracker.herokuapp.com/" target="_BLANK"><b>🏯 Ghibli tracker</b>
   </a> a new way to mark and qualify the Ghibli studio films that we all love. <i><a href="https://github.com/thomasnrggo/Ghibli-tracker-client">(Repository).</a></i>
 </p>
+
 <p>
   <a href="https://flamewars-master.herokuapp.com/" target="_BLANK"><b>🔥 Flamewars</b>
   </a> a new way to mark and qualify the Ghibli studio films that we all love. <i><a href="https://github.com/thomasnrggo/flamewars">(Repository).</a></i>
@@ -67,8 +74,10 @@ Some of my projects:
   <img src="https://img.shields.io/badge/firebase%20-%23FFCB2D.svg?&style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/gitlab%20-%23764ABC.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/heroku%20-%23764ABC.svg?&style=for-the-badge&logo=Heroku&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/vercel%20-%23000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/vue%20-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ruby%20-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;
 </p>
 <br>
 
