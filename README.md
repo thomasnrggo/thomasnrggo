@@ -30,6 +30,10 @@ src="./assets/banner-anthony-nogales.png" alt="Anthony Nogales cover" style="flo
 
 Some of my projects:
 <p>
+  <a href="[https://purojekuto-master.herokuapp.com/](https://tgc-tracker.vercel.app/)" target="_BLANK"><b>TGC Tracker</b>
+  </a> A Pokemon TGC track for pokemon fans. <i><a href="https://github.com/thomasnrggo/TGC-Tracker>(Repository).</a></i>
+</p>
+<p>
   <a href="https://purojekuto-master.herokuapp.com/" target="_BLANK"><b>🧑🏻‍💻 Purojekuto</b>
   </a> a project Planner for Project managers. <i><a href="https://github.com/Purojekuto-Capstone/purojekuto-client">(Repository).</a></i>
 </p>
